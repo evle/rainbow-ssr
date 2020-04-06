@@ -1,11 +1,13 @@
 Rainbow Cli
 ===========
 
+[![Build Status](https://travis-ci.org/evle/rainbow-ssr.svg?branch=master)](https://travis-ci.org/evle/rainbow-ssr)
+
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 Create react SSR App with no build configuration with rainbow-cli.
 
-If something doesn’t work and need help please [file an issue](https://)
+If something doesn’t work and need help please [file an issue](https://github.com/evle/rainbow-ssr/issues/new)
 
 ## Quick Overview
 
@@ -17,7 +19,7 @@ npm start
 
 Then open http://localhost:4000/ to see your app. When you’re ready to deploy to production, create a minified bundle with npm run build. 
 
-**Importatn**: don't use it in production environment, Rainbow SSR is not reliable and stable, some known issues not fixed yet and I'm working on it.
+**Important!!!**: don't use it in production environment, Rainbow SSR is not reliable and stable, some known issues not fixed yet and I'm working on it.
 
 ## Why Rainbow 
 

@@ -1,9 +1,9 @@
 Rainbow Cli
 ===========
 
-[![Build Status](https://travis-ci.org/evle/rainbow-ssr.svg?branch=master)](https://travis-ci.org/evle/rainbow-ssr)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://travis-ci.org/evle/rainbow-ssr.svg?branch=master)](https://travis-ci.org/evle/rainbow-ssr) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-Create react SSR App with no build configuration with rainbow-cli.
+Create react SSR App with no build configuration.
 
 If something doesn’t work and need help please [file an issue](https://github.com/evle/rainbow-ssr/issues/new)
 

@@ -17,7 +17,7 @@ npm start
 
 Then open http://localhost:4000/ to see your app. When you’re ready to deploy to production, create a minified bundle with npm run build. 
 
-**Important!!!**: don't use it in production environment, Rainbow SSR is not reliable and stable, some known issues not fixed yet and I'm working on it.
+**Important!!!** don't use it in production environment, Rainbow SSR is not reliable and stable, some known issues not fixed yet and I'm working on it.
 
 ## Why Rainbow 
 

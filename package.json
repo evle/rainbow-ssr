@@ -1,0 +1,19 @@
+{
+  "name": "rainbow-cli",
+  "version": "0.0.1",
+  "author": "evlefsp@163.com",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.1.0",
+    "ncp": "^2.0.0",
+    "ora": "^4.0.3",
+    "shelljs": "^0.8.3",
+    "standard": "^14.3.3"
+  },
+  "scripts": {
+    "test": "standard --fix"
+  },
+  "bin": "./bin/www"
+}

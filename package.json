@@ -11,5 +11,11 @@
     "ora": "^4.0.3",
     "shelljs": "^0.8.3"
   },
+  "devDependencies": {
+    "standard": "^14.3.3"
+  },
+  "scripts": {
+    "test": "standard"
+  },
   "bin": "./bin/www"
 }
